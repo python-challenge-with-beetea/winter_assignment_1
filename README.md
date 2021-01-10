@@ -1,5 +1,3 @@
 # winter_assignment_1
 
-Hello World!
-
-I'm ZEZE
+DSC에서 Data 분석을 배워보자
